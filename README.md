@@ -7,7 +7,6 @@ Junior Front-End Developer & LU MSci Software Engineering Student
 * 🌍  I'm based in Lancaster
 * 🖥️  See my portfolio at [ericdaniels.dev](http://ericdaniels.dev)
 * ✉️  You can contact me at [ericdanielsh@proton.me](mailto:ericdanielsh@proton.me)
-* 🧠  I'm learning React.js/Native
 
 ### Badges
 
