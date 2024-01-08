@@ -8,9 +8,7 @@ Junior Front-End Developer & LU MSci Software Engineering Student
 * 🖥️  See my portfolio at [ericdaniels.dev](http://ericdaniels.dev)
 * ✉️  You can contact me at [ericdanielsh@proton.me](mailto:ericdanielsh@proton.me)
 
-### Badges
-
-<b>My GitHub Stats</b>
+### Github Stats
 
 <a href="http://www.github.com/EricDanielsH"><img src="https://github-readme-stats.vercel.app/api?username=EricDanielsH&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=000000&icon_color=a855f7&bg_color=ffffff&hide_border=true&show_icons=true" alt="EricDanielsH's GitHub stats" /></a>
 
