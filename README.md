@@ -8,3 +8,6 @@ Junior Full Stack Developer & LU BSc Software Engineering Student
 * 🖥️  See my portfolio at [ericdaniels.dev](http://ericdaniels.dev)
 * ✉️  You can contact me at [jobs@ericdaniels.dev](mailto:jobs@ericdaniels.dev)
 
+* Expert in updating vim motions
+  
+
